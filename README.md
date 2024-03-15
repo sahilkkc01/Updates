@@ -1,3 +1,3 @@
 # Updates
-This is my first Git repositry 
+This is my first Git Repositry.
 Author - Sahil Gupta
