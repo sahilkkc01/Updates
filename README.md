@@ -1,4 +1,4 @@
 # Updates
 This is my first Git Repositry.
 <br>
-Author - Sahil Gupta
+Author - Sahil Gupta(Aryan)
